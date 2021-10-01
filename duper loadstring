@@ -1,0 +1,2 @@
+getgenv().item_name = "Gummy Rainbow" -- Change this to what you want to autodupe
+loadstring(game:HttpGet('https://raw.githubusercontent.com/vergedin/modified-auto-duper-for-pop-it-trading/main/duper'))()
